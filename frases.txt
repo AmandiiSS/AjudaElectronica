@@ -1,0 +1,89 @@
+FRASES PARICAL / FINAL / RECUS
+Frases[] = ["",];
+
+FRASES DE P1
+
+Frases[] = ["El coeficiente de difusión se expresa en unidades de [Longitud]^2/[Tiempo].",1];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+
+Frases[] = ["",];
+
+
+NOVES P1
+Frases[123] = ["",];
+Frases[124] = ["",];
+Frases[125] = ["",];
+Frases[126] = ["",];
+Frases[127] = ["",];
+Frases[128] = ["",];
+Frases[129] = ["",];
+Frases[130] = ["",];
+
+
+
+
+NOVES P2
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+
+
+
+
+NOVES P3
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+
+Frases[] = ["",];
+
+
+
+
+
+
+
+
+
+
+
+Frases[] = ["",];
